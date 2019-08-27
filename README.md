@@ -1,3 +1,5 @@
+Ref: https://www.lise.de/blog/article/ngcontent-ngtemplate-ngtemplateoutlet-wiederverwendbare-komponenten-in-angular-7/
+
 # ReusableComponentsDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
